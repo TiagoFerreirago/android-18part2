@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DemosAndroid</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="forgot">Esqueci Senha</string>
+    <string name="login">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Senha</string>
+    <string name="fab_add_task" >task</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">DemosAndroid</string>
+    <string name="email">mail</string>
+    <string name="password">password</string>
+    <string name="forgot">forgot password</string>
+    <string name="login">login</string>
+    <string name="email_hint">Mail</string>
+    <string name="password_hint">Password</string>
+    <string name="fab_add_task">Task</string>
+</resources>
